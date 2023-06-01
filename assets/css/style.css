@@ -4399,13 +4399,13 @@ body.loaded {
 }
 
 .skills-exp .skill-item .item:hover img {
-  -webkit-filter: grayscale(0);
-  filter: grayscale(0);
+  /* -webkit-filter: grayscale(0);
+  filter: grayscale(0); */
 }
 
 .skills-exp .skill-item .item img {
-  -webkit-filter: grayscale(1);
-  filter: grayscale(1);
+  /* -webkit-filter: grayscale(1);
+  filter: grayscale(1); */
   -webkit-transition: all .4s;
   -o-transition: all .4s;
   transition: all .4s;
